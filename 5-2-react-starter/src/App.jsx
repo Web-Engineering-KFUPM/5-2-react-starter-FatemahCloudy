@@ -11,18 +11,9 @@ function App() {
 
       <main className="dashboard-main">
         <div className="cards-container">
-          {
-              function App() {
-              return (
-              <div>
               <h1>Students List</h1>
               <StudentCard name="Fatemah Hasan" id="202230260" department="Computer Science" />
               <StudentCard name="Zainab Ali" id="202231760" department="Electrical Engineering" />
-              </div>
-              );
-          }
-          }
-
         </div>
       </main>
     </div>
